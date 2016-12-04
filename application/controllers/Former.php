@@ -10,7 +10,7 @@ class Former extends CI_Controller
     }
 
     function index(){
-        echo "1111111";
+        $this->load->view("former/index.php");
     }
 
 }
