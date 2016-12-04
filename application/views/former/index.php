@@ -308,7 +308,7 @@ http://www.templatemo.com/tm-397-concept
 	<script>
 		$(document).ready(function(){
 			$(".fakeloader").fakeLoader({
-				timeToHide:1500,
+				timeToHide:100,
 				bgColor:"#1abc9c",
 				spinner:"spinner6"
 			});
