@@ -10,7 +10,9 @@ class Former extends CI_Controller
     }
 
     function index(){
-        $this->load->view("former/index.php");
+        $this->load->model("former_model");
+        $data['gallery'] = $this->former_model->getGallery();
+        $this->load->view("former/index.php",$data);
     }
 
 }
