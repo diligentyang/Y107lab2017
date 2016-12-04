@@ -126,26 +126,32 @@ http://www.templatemo.com/tm-397-concept
 						<div class="inner-content">
 							<div class="toggle-content" id="tab1">
 								<h2 class="page-title">Our Services</h2>
-								<p>Proin accumsan, velit at pretium eleifend, lectus neque volutpat tortor, at placerat arcu odio vitae nisl. Curabitur dui ipsum, varius lobortis eros eget, faucibus faucibus nisl. <a href="#">Donec tincidunt</a> est a scelerisque suscipit. Vivamus sit amet purus at ante mollis mattis a at ante. Praesent purus metus, aliquet non porta sit amet, ultrices sit amet purus. Phasellus vitae orci diam. Cras sit amet gravida neque, auctor lobortis nibh.</p>
+								<p>本实验室服务范围：</p>
 								<ul>
-									<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>
-									<li>Aliquid, beatae, ea delectus asperiores nostrum tempora nihil facere.</li>
-									<li>Consequatur nesciunt dolorem deserunt necessitatibus.</li>
-									<li>Iste laboriosam qui pariatur cum sint modi.</li>
+									<li><a href="javascript:void(0);">网站前端设计</a></li>
+									<li><a href="javascript:void(0);">网站后台数据维护</a></li>
+									<li><a href="javascript:void(0);">数据库设计</a></li>
+									<li><a href="javascript:void(0);">服务器搭建和管理</a></li>
+									<li><a href="javascript:void(0);">图片处理</a></li>
+									<li><a href="javascript:void(0);">平面设计</a></li>
+									<li><a href="javascript:void(0);">校站群网站制作维护</a></li>
+									<li><a href="javascript:void(0);">APP接口</a></li>
 								</ul>
-								<p>Concept is <a href="#">free responsive template</a> based on <a rel="nofollow" href="http://getbootstrap.com">Bootstrap</a> framework. Gallery page is integrated with <a rel="nofollow" href="https://github.com/duncanmcdougall/Responsive-Lightbox">responsive lightbox</a>. Credit goes to <a rel="nofollow" href="http://unsplash.com">Unsplash</a> for all images featured in this template. This template can be viewed in mobile phones or tablets. Feel free to use this layout for your websites.</p>
+								<p>注：本实验室所提供服务均为<a href="javascript:void(0);">有偿服务</a>。</p>
 							</div> <!-- /.toggle-content -->
 							<div class="toggle-content" id="tab2">
-								<h2 class="page-title">Our Support</h2>
-								<p>Quisque vestibulum sed mauris vel aliquet. Etiam in purus a massa mattis bibendum. Donec dolor odio, porttitor molestie euismod dictum, ultrices vel ipsum. Phasellus id sollicitudin erat. Nullam imperdiet sed metus iaculis dapibus. <a href="#">Duis pharetra</a> feugiat metus in sollicitudin.</p>
-                                <p>Proin cursus dapibus ipsum, vel congue tellus malesuada aliquam. Nullam id arcu urna. Donec at velit vel velit ultricies accumsan. Integer commodo dui libero, vitae rhoncus ante porttitor ac. Pellentesque sit amet lectus eros. <a href="#">Aliquam placerat</a> varius quam sed aliquam. Curabitur turpis diam, iaculis sit amet auctor ut, cursus quis velit. Mauris non risus vitae purus sodales rhoncus.</p>
-                                <p>Sed feugiat a turpis vitae porttitor. Proin placerat vitae enim ac scelerisque. Cras ac lectus hendrerit, pellentesque metus ut, molestie diam. Nam vitae bibendum velit, eu fermentum dui. In sodales dolor interdum egestas consequat. Integer id dolor nulla. Donec nec ante mauris.</p>
+								<h2 class="page-title">After-sale service</h2>
+								<p><a href="javascript:void(0);">凡是经我实验室制作的产品，本实验室均对其负责。</a></p>
+                                <p>一年之内，本实验室在不改变甲方网站原页面风格和模版的前提下无偿为甲方进行网站维护；</p>
+                                <p>收到甲方通知后工作日时间，保障在收取资料后3日内完成资料的修改，如甲方提交更新量较大时间往后延迟。</p>
+								<p>每次网站维护，甲方应提前将要更新的资料以电子邮件或移动U盘方式交给乙方；明确、清晰的指明更新或维护项目。</p>
+								<p>
+									因电信部门检修等原因造成服务中断的，双方互不承担责任；因国家政策法规调整、程序过老、自然灾害等不可抗力造成的服务中断，双方互不承担责任。因网站服务器运营商造成的网站问题乙方不承担责任。因甲方操作不当或是误删误改网站源码造成问题乙方不承担责任。
+								</p>
 							</div> <!-- /.toggle-content -->
 							<div class="toggle-content" id="tab3">
-								<h2 class="page-title">Testimonials</h2>
-								<p>Duis interdum eros elit, ut semper massa imperdiet vitae. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut pretium vehicula est tristique volutpat. Duis ac felis quis augue dapibus hendrerit. Vivamus pretium, felis sed dignissim commodo, quam turpis commodo ipsum, at varius nisi risus ut dolor. Mauris quam purus, molestie ac urna eu, sagittis sagittis dui.</p>
-                                <p><a href="#">Integer risus mauris</a>, fermentum ac risus eu, vehicula tempus augue. Morbi egestas nulla turpis, non sollicitudin justo interdum ac. Pellentesque elementum, urna bibendum semper ullamcorper, lorem justo gravida arcu, ut pellentesque nulla orci in neque. Curabitur in commodo sem, rhoncus lobortis mi. Maecenas sit amet arcu sapien.</p>
-                                <p>Phasellus molestie molestie metus quis elementum. Cras dictum rutrum arcu id interdum. Vivamus suscipit suscipit mauris eget feugiat. Sed sagittis enim id tempus vulputate. Aliquam erat volutpat. In quis neque sodales, pulvinar turpis sed, lacinia sem.</p>
+								<h2 class="page-title">Notice</h2>
+								<p>自2016年12月1日起，由于临近期末考试，本实验室不在接取新项目。直至2017年1月17日恢复正常。</p>
 							</div> <!-- /.toggle-content -->
 						</div> <!-- /.inner-content -->
 					</div> <!-- /.col-md-9 -->
@@ -161,13 +167,13 @@ http://www.templatemo.com/tm-397-concept
 								<li>
 									<a href="#tab2" class="icon-item">
 										<i class="fa fa-leaf"></i>
-										<span>Our Support</span>
+										<span>After-sale service</span>
 									</a> <!-- /.icon-item -->
 								</li>
 								<li>
 									<a href="#tab3" class="icon-item">
 										<i class="fa fa-users"></i>
-										<span>Testimonials</span>
+										<span>Notice</span>
 									</a> <!-- /.icon-item -->
 								</li>
 							</ul>
@@ -185,24 +191,42 @@ http://www.templatemo.com/tm-397-concept
 							<div class="toggle-content" id="tab4">
 								<h2 class="page-title">Our History</h2>
                                 
-								<p><img src="<?php echo base_url();?>/style/images/products/product4.jpg" alt="product 4" class="img-responsive img_left">Vivamus eleifend vestibulum auctor. Nam ac leo sed nulla iaculis commodo sit amet a ligula. <a href="#">Proin consequat</a> magna nec sodales hendrerit. Nam commodo mi dolor, quis egestas lectus viverra eu. Cras accumsan ultrices turpis et lacinia. Sed non lobortis purus. Phasellus consequat, magna id rutrum lacinia, magna urna malesuada magna, ut fringilla odio sapien at nunc. <a href="#">Proin nisl purus</a>, semper at fermentum sit amet, vehicula eget dolor. Integer sodales vehicula magna mattis semper. Etiam pellentesque semper mi vitae tempus. Praesent ut metus sed lacus egestas blandit eget gravida enim. Ut rutrum suscipit velit sit amet tempor. Donec rutrum, lacus non blandit rhoncus, nisi orci tempus risus, non vehicula enim lacus et est. In non gravida metus. Duis augue mauris, ullamcorper quis blandit sit amet, laoreet sed dui.</p>
+								<p>
+									<img src="<?php echo base_url();?>/style/images/products/product4.jpg" alt="product 4" class="img-responsive img_left">　　
+									107网站工作室，历史可以追溯到2006年，是计算机与信息工程学院下属的工作室，由学生自主管理，所以又名学生自主创新实验室，
+									这也是工作室的独特之处。工作室创办之初位于河南大学计算机与信息工程学院107办公室(名字由来)，当时由于房间较小，只能容纳5-6名同学，
+									所以最初工作室每年只招两人。到后来由于我工作室对学院做出的突出贡献，受到了院领导以及各位老师的大力支持，有107办公室
+									搬至116办公室，实验室规模扩大，与2014年开始扩招。
+								</p>
 								<ul>
-									<li>Cras quis nibh vitae ligula venenatis blandit ut eleifend nunc.</li>
-									<li>Morbi imperdiet mauris ut dolor pellentesque egestas.</li>
-									<li>Ut ultrices lorem quis tellus malesuada blandit.</li>
-									<li>Donec pharetra ante in sodales semper.</li>
-                                    <li>Nam vitae bibendum velit, eu fermentum dui.</li>
+									<li>2006年--2013年 计算机与信息工程学院107办公室</li>
+									<li>2013年--2015年 计算机与信息工程学院116办公室</li>
+									<li><a href="javascript:void(0);">2015年--2017年 计算机与信息工程学院202办公室</a></li>
 								</ul>
 							</div> <!-- /.toggle-content -->
 							<div class="toggle-content" id="tab5">
 								<h2 class="page-title">Our Team</h2>
-								<p><img src="<?php echo base_url();?>/style/images/products/product2.jpg" alt="product 2" class="img-responsive img_right">Duis purus mauris, tincidunt at consectetur non, tristique sodales ligula. Cras congue cursus risus, nec tempus mi porta eget. Cras ante metus, aliquam tincidunt eros sed, dignissim hendrerit est. Phasellus fringilla sit amet dui eu convallis. Mauris tristique, metus eget auctor tempor, elit odio vehicula mi, ac placerat lectus augue eu arcu. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris eu porta urna, a commodo leo. <a href="#">Phasellus porttitor</a>, nisl vitae molestie euismod, magna lorem porta ante, eu commodo nisl orci ut nisi. Curabitur imperdiet, arcu vitae tincidunt viverra, velit elit aliquam metus, sed ultrices metus odio sed nunc.</p>
-                                <p>Etiam lectus tortor, lobortis eu mattis nec, eleifend a nunc. Quisque consequat lectus sed imperdiet vulputate. Vivamus tristique non elit eu faucibus. Nam et arcu vestibulum, bibendum risus vitae, gravida libero. Suspendisse sed lacus neque. Nullam arcu elit, luctus ut enim et, eleifend varius dui. Fusce sit amet convallis lacus. Quisque vel ultricies libero. Morbi at tempor nisi.</p>
+								<p><img src="<?php echo base_url();?>/style/images/products/product2.jpg" alt="product 2" class="img-responsive img_right">
+									我们是一群具有专业技术的在校大学生组成的团队，是一个富有想象力和创造力的团队，每年我们都会吸纳一批优秀的同学加入到我们
+									的团队中，以专业的技术、独特的创意和青春的热情为工作室注入源源不断的活力。在这里，你可以结识到各个专业，各个年级的朋友。
+									我们不只是一个团队，更像是一个大家庭。每年都会组织一些有趣的活动，一起聚餐，一起唱歌，一起旅行，让你的大学生活更加有意义。
+									在这里每个人都是精英。
+								</p>
+                                <p>
+									目前实验室成员分布学院的各个专业，各个班级，主力为大二大三。
+								</p>
 							</div> <!-- /.toggle-content -->
 							<div class="toggle-content" id="tab6">
 								<h2 class="page-title">Our Workspace</h2>
-								<p><img src="<?php echo base_url();?>/style/images/products/product6.jpg" alt="product 6" class="img-responsive img_left">Labore, libero itaque quisquam officiis earum. Eaque, facilis, quibusdam, ab, voluptates quaerat dignissimos totam nam consequuntur labore explicabo temporibus atque aliquid asperiores error impedit repudiandae est nemo omnis sequi quae eius quos repellat doloribus cumque nulla sunt maxime ducimus commodi animi placeat quo debitis earum illum numquam inventore aspernatur necessitatibus voluptatum delectus maiores laboriosam magni ex illo quod corporis hic consectetur odio suscipit fugit qui aperiam. Sequi, quos, nam quam debitis architecto doloribus rerum illum magnam culpa ex eius nobis ducimus aspernatur aliquid laborum deleniti distinctio temporibus quae.</p> 
-                                <p>Quisque consequat lectus sed imperdiet vulputate. <a href="#">Vivamus tristique</a> non elit eu faucibus. Nam et arcu vestibulum, bibendum risus vitae, gravida libero. Suspendisse sed lacus neque. Nullam arcu elit, luctus ut enim et, eleifend varius dui.</p>
+								<p>
+									<img src="<?php echo base_url();?>/style/images/products/333.jpg" alt="product 6" class="img-responsive img_left">
+									目前实验室为202学生自主创新实验室（学院201实验室对面）。
+								</p>
+                                <p>
+									设备是一个计算机专业的人最关心的问题，好的设备，能让我们在日常编程的过程中得心应手，才能让我们过关斩将。
+									本实验室的设备是目前学院所有实验室中最好的，每个人都配有新电脑。电脑 CPU ：Inter Core i5-4590 3.30GHz，4GB内存，1T硬盘。实验室内有两台空调，所以同学们完全不用担心冬天冷，夏天热的问题。
+									因为实验室受到学院高度重视，每年都会引进一些新设备。
+								</p>
 							</div> <!-- /.toggle-content -->
 						</div> <!-- /.inner-content -->
 					</div> <!-- /.col-md-9 -->
@@ -237,7 +261,7 @@ http://www.templatemo.com/tm-397-concept
 		<div class="content contact" id="menu-5">
 			<div class="container">
 				<div class="row">
-					<div class="col-md-6">
+					<div class="col-md-offset-3 col-md-6">
 						<div class="widget-content">
 							<div class="page-title">Contact Us</div>
 							<div class="contact-form">
@@ -259,27 +283,7 @@ http://www.templatemo.com/tm-397-concept
 							</div> <!-- /.contact-form -->
 						</div> <!-- /.inner-content -->
 					</div> <!-- /.col-md-6 -->
-					<div class="col-md-6">
-						<div class="widget-content">
-							<div class="page-title">Our Location</div>
 
-							<div id="templatemo_map"></div>
-
-                            <div class="contact-information">
-                            	<div class="row">
-                            		<div class="col-md-6 col-sm-6">
-                            			<p>120 Digital Studio, Inya Lake, Yangon 10620, Myanmar</p>
-                            		</div> <!-- /.col-md-6 -->
-                            		<div class="col-md-6 col-sm-6 text-right">
-                            			<ul>
-                            				<li>Tel: 010-020-0340</li>
-                            				<li>Email: info@company.com</li>
-                            			</ul>
-                            		</div> <!-- /.col-md-6 -->
-                            	</div> <!-- /.row -->
-                            </div> <!-- /.contact-information -->
-						</div> <!-- /.inner-content -->
-					</div> <!-- /.col-md-6 -->
 				</div> <!-- /.row -->
 			</div> <!-- /.container -->
 		</div> <!-- /.contact -->
@@ -305,10 +309,11 @@ http://www.templatemo.com/tm-397-concept
 	<script src="<?php echo base_url("style/javascript/jquery.lightbox.js");?>"></script>
 	<script src="<?php echo base_url("style/javascript/templatemo_custom.js"); ?>"></script>
 	<script src="<?php echo base_url("style/javascript/fakeLoader.min.js"); ?>"></script>
+
 	<script>
 		$(document).ready(function(){
 			$(".fakeloader").fakeLoader({
-				timeToHide:100,
+				timeToHide:2000,
 				bgColor:"#1abc9c",
 				spinner:"spinner6"
 			});
