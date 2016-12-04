@@ -22,6 +22,7 @@ http://www.templatemo.com/tm-397-concept
     <link rel="stylesheet" href="<?php echo base_url("style/css/animate.css");?>">
     <link rel="stylesheet" href="<?php echo base_url("style/css/font-awesome.min.css");?>">
 	<link rel="stylesheet" href="<?php echo base_url("style/css/templatemo_misc.css");?>">
+	<link rel="stylesheet" href="<?php echo base_url("style/css/fakeLoader.css");?>">
 
 	<!-- Main CSS -->
 	<link rel="stylesheet" href="<?php echo base_url("style/css/templatemo_style.css");?>">
@@ -31,6 +32,7 @@ http://www.templatemo.com/tm-397-concept
 
 </head>
 <body>
+	<div class="fakeloader"></div>
 	<div class="site-header">
 		<div class="main-navigation">
 			<div class="responsive_menu">
@@ -302,10 +304,15 @@ http://www.templatemo.com/tm-397-concept
 	<script src="<?php echo base_url("style/javascript/tabs.js");?>"></script>
 	<script src="<?php echo base_url("style/javascript/jquery.lightbox.js");?>"></script>
 	<script src="<?php echo base_url("style/javascript/templatemo_custom.js"); ?>"></script>
-	<!-- 
-    	Free Responsive Template by templatemo
-    	http://www.templatemo.com
-	-->
-    <!-- templatemo 397 concept -->
+	<script src="<?php echo base_url("style/javascript/fakeLoader.min.js"); ?>"></script>
+	<script>
+		$(document).ready(function(){
+			$(".fakeloader").fakeLoader({
+				timeToHide:1500,
+				bgColor:"#1abc9c",
+				spinner:"spinner6"
+			});
+		});
+	</script>
 </body>
 </html>

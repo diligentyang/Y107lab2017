@@ -9,13 +9,13 @@ class Former_model extends CI_Model
     }
 
     function getGallery(){
-        $sql = "SELECT * FROM image WHERE cid = ? limit 0,12";
+        $sql = "SELECT * FROM image WHERE cid = ? ORDER BY id desc limit 0,12";
         $query = $this->db->query($sql, array(1));
         return $query->result_array();
     }
 
     function getProducts(){
-        $sql = "SELECT * FROM image WHERE cid = ?";
+        $sql = "SELECT * FROM image WHERE cid = ? ORDER BY id desc";
         $query = $this->db->query($sql, array(2));
         return $query->result_array();
     }
