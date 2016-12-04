@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> 
 <![endif]-->
@@ -8,7 +7,7 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
 <head>
 
-	<title>Concept HTML5 Layout</title>
+	<title>107网站工作室</title>
     <meta name="keywords" content="" />
 	<meta name="description" content="" />
 <!-- 
@@ -18,19 +17,17 @@ http://www.templatemo.com/tm-397-concept
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="UTF-8">
 
-   
-
 	<!-- CSS Bootstrap & Custom -->
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/animate.css">
-    <link rel="stylesheet" href="css/font-awesome.min.css">
-	<link rel="stylesheet" href="css/templatemo_misc.css">
+    <link rel="stylesheet" href="<?php echo base_url("style/css/bootstrap.min.css");?>">
+    <link rel="stylesheet" href="<?php echo base_url("style/css/animate.css");?>">
+    <link rel="stylesheet" href="<?php echo base_url("style/css/font-awesome.min.css");?>">
+	<link rel="stylesheet" href="<?php echo base_url("style/css/templatemo_misc.css");?>">
 
 	<!-- Main CSS -->
-	<link rel="stylesheet" href="css/templatemo_style.css">
+	<link rel="stylesheet" href="<?php echo base_url("style/css/templatemo_style.css");?>">
 
 	<!-- Favicons -->
-    <link rel="shortcut icon" href="images/ico/favicon.ico">
+    <link rel="shortcut icon" href="<?php echo base_url("images/ico/favicon.ico");?>">
 
 </head>
 <body>
@@ -469,13 +466,13 @@ http://www.templatemo.com/tm-397-concept
 	</div> <!-- /.templatemo_footer -->
 
 	<!-- Scripts -->
-	<script src="js/jquery-1.10.2.min.js"></script>
-    <script src="js/jquery-migrate-1.2.1.min.js"></script>
-    <script src="js/modernizr.js"></script>
-	<script src="js/bootstrap.js"></script>
-	<script src="js/tabs.js"></script>
-	<script src="js/jquery.lightbox.js"></script>
-	<script src="js/templatemo_custom.js"></script>
+	<script src="<?php echo base_url("style/javascript/jquery-1.10.2.min.js");?>"></script>
+    <script src="<?php echo base_url("style/javascript/jquery-migrate-1.2.1.min.js");?>"></script>
+    <script src="<?php echo base_url("style/javascript/modernizr.js");?>"></script>
+	<script src="<?php echo base_url("style/javascript/bootstrap.js");?>"></script>
+	<script src="<?php echo base_url("style/javascript/tabs.js");?>"></script>
+	<script src="<?php echo base_url("style/javascript/jquery.lightbox.js");?>"></script>
+	<script src="<?php echo base_url("style/javascript/templatemo_custom.js"); ?>"></script>
 	<!-- 
     	Free Responsive Template by templatemo
     	http://www.templatemo.com
