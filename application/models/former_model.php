@@ -14,4 +14,10 @@ class Former_model extends CI_Model
         return $query->result_array();
     }
 
+    function getProducts(){
+        $sql = "SELECT * FROM image WHERE cid = ?";
+        $query = $this->db->query($sql, array(2));
+        return $query->result_array();
+    }
+
 }
