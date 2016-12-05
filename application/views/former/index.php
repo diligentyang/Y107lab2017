@@ -110,7 +110,7 @@ http://www.templatemo.com/tm-397-concept
 						<div class="col-md-4 col-sm-6">
 							<div class="product-item">
 								<img src="<?php echo base_url($value['imagepath']);?>" alt="product $count">
-								<a href="<?php echo $value['link']?>" class="product-title"><?php echo $value['title'];?></a>
+								<a target="_blank" href="<?php echo $value['link']?>" class="product-title"><?php echo $value['title'];?></a>
 								<!--<p>This is free <a href="#">HTML5 Template</a> by templatemo and you can use it for any website.</p>-->
 							</div> <!-- /.product-item -->
 						</div> <!-- /.col-md-4 -->
@@ -141,17 +141,18 @@ http://www.templatemo.com/tm-397-concept
 							</div> <!-- /.toggle-content -->
 							<div class="toggle-content" id="tab2">
 								<h2 class="page-title">After-sale service</h2>
-								<p><a href="javascript:void(0);">凡是经我实验室制作的产品，本实验室均对其负责。</a></p>
+								<!--<p><a href="javascript:void(0);">凡是经我实验室制作的产品，本实验室均对其负责。</a></p>
                                 <p>一年之内，本实验室在不改变甲方网站原页面风格和模版的前提下无偿为甲方进行网站维护；</p>
                                 <p>收到甲方通知后工作日时间，保障在收取资料后3日内完成资料的修改，如甲方提交更新量较大时间往后延迟。</p>
 								<p>每次网站维护，甲方应提前将要更新的资料以电子邮件或移动U盘方式交给乙方；明确、清晰的指明更新或维护项目。</p>
 								<p>
 									因电信部门检修等原因造成服务中断的，双方互不承担责任；因国家政策法规调整、程序过老、自然灾害等不可抗力造成的服务中断，双方互不承担责任。因网站服务器运营商造成的网站问题乙方不承担责任。因甲方操作不当或是误删误改网站源码造成问题乙方不承担责任。
-								</p>
+								</p>-->
+								<p><br><br><br><br><br><br><br><br><br>尚待开发...</p>
 							</div> <!-- /.toggle-content -->
 							<div class="toggle-content" id="tab3">
 								<h2 class="page-title">Notice</h2>
-								<p>自2016年12月1日起，由于临近期末考试，本实验室不在接取新项目。直至2017年1月17日恢复正常。</p>
+								<p><br><br><br>自2016年12月1日起，由于临近期末考试，本实验室不在接取新项目。直至2017年1月17日恢复正常。</p>
 							</div> <!-- /.toggle-content -->
 						</div> <!-- /.inner-content -->
 					</div> <!-- /.col-md-9 -->
